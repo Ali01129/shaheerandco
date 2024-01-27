@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shaheerandco/static/css/main.6f076e90.css",
+    "main.js": "/shaheerandco/static/js/main.2ddcde01.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shaheerandco/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/import.jpg": "/shaheerandco/static/media/import.246aa694871c5342a4be.jpg",
+    "static/media/fontawesome-webfont.eot": "/shaheerandco/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shaheerandco/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/nucleo-icons.svg": "/shaheerandco/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shaheerandco/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shaheerandco/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/2.png": "/shaheerandco/static/media/2.bb8e1add19baddf791a1.png",
+    "static/media/235.png": "/shaheerandco/static/media/235.afd4c907c0c700462e50.png",
+    "static/media/nucleo-icons.eot": "/shaheerandco/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/shaheerandco/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/shaheerandco/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/shaheerandco/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "index.html": "/shaheerandco/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6f076e90.css",
+    "static/js/main.2ddcde01.js"
+  ]
+}
